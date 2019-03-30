@@ -1,6 +1,6 @@
   @import url('https://fonts.googleapis.com/css?family=Cardo|Montserrat:100,200,300,300i,400,500i,600,600i,700,800,900');
-  @import url('../css/adaptive.css');
-  @import url('../css/adaptive320px.css');
+  @import url('adaptive.css');
+  @import url('adaptive320px.css');
 
   * {
       box-sizing: border-box;
